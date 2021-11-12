@@ -1,0 +1,11 @@
+version: "3"
+services:
+  os1:
+    build: .
+
+  os2:
+    build: .
+
+  os3:
+    build: ./docker2
+ 
